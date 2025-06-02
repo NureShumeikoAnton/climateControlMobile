@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8524079173",
+    "project_id": "climatecontrol-5150c",
+    "storage_bucket": "climatecontrol-5150c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8524079173:android:41afec9a5424580480c32c",
+        "android_client_info": {
+          "package_name": "com.example.climatecontrolmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFIhkPEez8KvgkgDG1p4fj7TPr1zLFUwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
